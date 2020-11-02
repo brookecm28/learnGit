@@ -1,0 +1,3 @@
+//changes
+var global;
+
